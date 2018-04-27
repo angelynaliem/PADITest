@@ -52,7 +52,7 @@
             android:autoLink="map"
             android:drawableLeft="@drawable/pin"
             android:drawablePadding="@dimen/padding"
-            android:text="Jl. Bangka 7 Dalam No. 14 \nSouth Jakarta, Indonesia"
+            android:text="@string/PADI_address_indo"
             android:textColor="@color/colorPrimary"
             android:textSize="@dimen/textSize" />
 
