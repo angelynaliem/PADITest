@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PADI Test</string>
+    <string name="desc">PADI offers meaningful and impactful work \nfor students interested in learning and \nmaking  a difference in the lives of communities,  organizations, and companies in Indonesia.</string>
+    <string name="image_desc">PADI Event in Indonesia</string>
+    <string name="PADI_logo">PADI Logo</string>
+    <string name="PADI_email">info@padi-internship.com</string>
+    <string name="Learn_more">learn more</string>
+</resources>

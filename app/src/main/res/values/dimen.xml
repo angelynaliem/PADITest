@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTopOne">15dp</dimen>
+    <dimen name="marginTopTwo">30dp</dimen>
+    <dimen name="marginLeft1">180dp</dimen>
+    <dimen name="marginLeft2">150dp</dimen>
+    <dimen name="marginLeftText">60dp</dimen>
+    <dimen name="marginLeftTextTwo">75dp</dimen>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="paddingButton">5dp</dimen>
+    <dimen name="height">40dp</dimen>
+
+</resources>
